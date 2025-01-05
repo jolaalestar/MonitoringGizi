@@ -1,7 +1,7 @@
 /**
  * Created by Zaki Hatta - 222343083
  * Monitoring Gizi App
- * Repository: github.com/Zakihatta
+ * Repository: https://github.com/Zakihatta/MonitoringGizi
  */
 
 plugins {
